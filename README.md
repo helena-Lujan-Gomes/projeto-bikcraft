@@ -5,5 +5,5 @@
 #Projeto Bikcraft
 
 - Este projeto foi criado durante a formação em Desenvolvimento Front-end pela Origamid 📝💻
-* **[Projeto Bikcraft](https://helena-lujan-gomes.github.io/Login-e-Cadastro/)** 
+* **[Projeto Bikcraft](https://helena-lujan-gomes.github.io/projeto-bikcraft/)** 
 
